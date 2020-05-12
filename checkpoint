@@ -1,0 +1,2 @@
+model_checkpoint_path: "E:\\HumAin\\model.h5"
+all_model_checkpoint_paths: "E:\\HumAin\\model.h5"
